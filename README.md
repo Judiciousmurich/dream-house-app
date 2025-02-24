@@ -3,6 +3,8 @@ The Dream-House-App database schema is designed to support a real estate applica
 
 
 ![image](https://github.com/user-attachments/assets/afdc5ed2-2571-4f25-89e5-02adcdd31719)
+![image](https://github.com/user-attachments/assets/4c00c70c-57c9-40b8-9545-06771434c4e0)
+
 
 
 # Key Features
